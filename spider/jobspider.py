@@ -1,6 +1,6 @@
 # encoding=utf8
 # 前程无忧 爬虫
-__author__ = "崔译"
+__author__ = ""
 
 # 发送http、https请求
 from urllib import request
